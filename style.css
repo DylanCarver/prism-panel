@@ -61,3 +61,13 @@ p {
   justify-content: space-around;
   align-items: center;
 }
+
+/* @media screen and (max-width: 980px) {
+  .wrapper {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+} */
